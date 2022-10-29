@@ -1,0 +1,29 @@
+{
+  "name": "testing_assignment",
+  "version": "1.0.0",
+  "description": "NodeJS TDD Testing Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillsapTatiana-FS/WDV4416.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tdd",
+    "testing",
+    "jest"
+  ],
+  ],
+  "author": "Tatiana Millsap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MillsapTatiana-FS/WDV4416/issues"
+  },
+  "homepage": "https://github.com/MillsapTatiana-FS/WDV4416#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
